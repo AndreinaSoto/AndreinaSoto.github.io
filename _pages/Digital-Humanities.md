@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Digital Humanities
+title: digital humanities
 description: Projects
 background: '/img/bg-about.jpg'
 ---
