@@ -4,7 +4,8 @@ title: About Me
 description: Professional profile
 background: '/img/posts/blog-page.jpeg'
 ---
-![Profile-pic](/img/posts/Profile-pic.jpg)
+<img src="/img/posts/Profile-pic.jpg" style="display: block; width: 300px; margin-right: auto; margin-left: auto;" />
+
 
 I am a Venezuelan anthropologist that found a home away from home with historians in the U.S.
 
