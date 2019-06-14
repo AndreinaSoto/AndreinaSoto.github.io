@@ -85,4 +85,7 @@ For instance, if I wanted the page to display the code for the iframe above rath
 Or this:
 ```
 <iframe src="https://api.mapbox.com/styles/v1/juancobo/cjs11m0to0avh1fqj3r9nhjg8.html?fresh=true&title=true&access_token=pk.eyJ1IjoianVhbmNvYm8iLCJhIjoibUZtUDNvVSJ9.LbmhhDxGc4BTb7G2JpKlZA#9.9/5.421206/-73.382440/0" width="100%" height ="500px" frameborder="0"></iframe>
-```
+``
+
+<img src="/img/posts/caracas.jpg" style="display: block; width: 400px; margin-right: auto; margin-left: auto;" />
+<p class="caption123">View of El Ávila from the Universidad Central de Venezuela. One of the last pictures I took before leaving Caracas, 2014.</p>

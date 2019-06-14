@@ -3,7 +3,7 @@ layout: post # if this were a page, you would write "page" instead. They layouts
 title:  "Saudade"
 subtitle:
 date:   2017-05-19 23:45:13 -0400
-author: Andreina Soto 
+author: Andreina Soto
 background: '/img/posts/caracas.jpg' # notice how the image referenced is in your project's /img/posts/ folder.
 ---
 
@@ -13,12 +13,12 @@ background: '/img/posts/caracas.jpg' # notice how the image referenced is in you
 
 On August 10 2014, I was packing my suitcases and saying goodbye to my family. The next day I was flying to the United States to begin my studies and a new life. That was the last time I saw my country, that was the last time I was at home. That was also the first time I started to feel saudade.
 
-<img src="/img/posts/caracas.jpg" style="display: block; width: 300px; margin-right: auto; margin-left: auto;" />
-*View of El Ávila from the Universidad Central de Venezuela. One of the last pictures I took before leaving Caracas, 2014.*
+<img src="/img/posts/caracas.jpg" style="display: block; width: 400px; margin-right: auto; margin-left: auto;" />
+<p class="caption123">View of El Ávila from the Universidad Central de Venezuela. One of the last pictures I took before leaving Caracas, 2014.</p>
 
 *Saudade* is a Portuguese word tricky to translate, it does not seem to have an equivalent word in English or Spanish, but it means a recurrent state of nostalgia or melancholy, of missing something or someone that is part of you.[1] For me, saudade means Venezuela, my family and friends; it is this hole in my stomach that never goes away but I hold dear to me. Sometimes it is the fuel that motivates me to pursue my goals, to look at old pictures and memories of my past, the reminder to keep in touch with my love ones. Saudade is also the feeling that makes me cry for the people I could not say goodbye, the loneliness sometimes I feel due to the distance. It is the anxiety about the problems that are affecting my country. Saudade is also the uncertainty of when will I return home.
 
-Recently, I find myself reading stories of people that for different reasons left their homelands, from Homegoing by Yaa Gyasi, A Long Way Home by Saroo Brierley, to Alex Tizon’s article “My Family’s Slave.”[2] All these stories, fictional and real, are profoundly sad and complex narratives that discuss the departure and displacement, they are about beginnings and the recurrent presence of the past. These narratives talk about persons who, for diverse reasons and in different ways, had to build new lives, start new families, and settle in new places.
+<p class="caption123"> Recently, I find myself reading stories of people that for different reasons left their homelands, from Homegoing by Yaa Gyasi, A Long Way Home by Saroo Brierley, to Alex Tizon’s article “My Family’s Slave.”[2] All these stories, fictional and real, are profoundly sad and complex narratives that discuss the <b>departure and displacement,</b> they are about beginnings and the recurrent presence of the past. These narratives talk about persons who, for diverse reasons and in different ways, had to build new lives, start new families, and settle in new places.</p>
 
 These stories honor those who without a choice had to start over in an unknown context. I read between the lines and I cannot help but seeing some of myself in these persons. I notice they were hunted by that feeling of missing something, and that there was some kind of beautiful sadness in their lives. Their saudades gives them strength to live, yet it also makes them not to forget what was left behind. Like me, the hole in their stomachs made them build a life, a home away from home. Like me, they also lived with an endless saudade.
 
