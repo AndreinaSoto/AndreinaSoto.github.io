@@ -6,8 +6,6 @@ background: '/img/posts/blog-page.jpeg'
 ---
 <img src="/img/posts/Profile-pic.jpg" style="display: block; width: 300px; margin-right: auto; margin-left: auto;" />
 
-I am a History PhD student at **UCSB**. My research examines forms of religiosity among people of African descent in early-modern Venezuela. I am particularly interested in how these forms of religiosity expressed in local concerns about death and funerary practices.  
+ I am a Latin American historian and anthropologist with interest in race, materiality, spatial history, and ritual practices. My current research examines the ways people of African descent used civic and religious institutions to position themselves in the colonial society, with focus on early modern Venezuela.
 
-As part of [Neogranadina](https://www.neogranadina.org/), I work as research assistant in the development of a digital collection of archival materials about the New Kingdom Granada, I also handle the supervision of the volunteers who help us in the processing of the digitized volumes.
-
-I created this website to share some of my work in history and the digital humanities. On my blog you can also read some of my reflections about the themes I am passionate about.
+I am also part of [Neogranadina](https://www.neogranadina.org/), a non-profit that specializes in the digitization, processing, and promotion of archival resources from Latin America. At Neogranadina I handle the social media outlets and the volunteers who help us in the processing of the digitized volumes.
