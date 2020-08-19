@@ -1,14 +1,17 @@
 ---
 layout: page
 title: Digital Humanities
-description: Projects
+description:
 background: '/img/dhcover.jpg'
 ---
+# [Sacred Spaces. Mapping Religion and the Built Environment in Early-Modern Venezuela](https://andreinasoto.github.io/mapping-venezuela/)
 
-# The Religious Landscape of Early-Modern Venezuela 
+Sacred Spaces is a digital project about the history of the Province of Venezuela through the lens of the religious built environment created during the colonial period (1500-1800). The goal of this project is to create visualization tools for historical information about the territorial expansion of the Catholic friars and missionaries in the Province of Venezuela. I wanted to see how this expansion altered the landscape and helped shape the formation of new settlements. This project is still under development but you can learn more about it on the official website.
 
-The Religious Landscape of Early-Modern Venezuela is a project that aims at visualizing the making of the Province of Venezuela through the lens of Catholic institutions. Missionaries, religious orders, the secular church, and  *encomenderos* were actively involved in the early process of colonization of the region, changing the landscape and seeking to alter the settlement patterns of the indigenous societies according to European models. Mapping and registering this process can help us understand better how colonization worked on the ground, how civic and religious communities engaged in the quest to create towns, villages, and settlements, and how this new landscape came hand-in-hand with the attempts to impose, physically and spiritually, Catholic practices.
+# [Catálogo Colectivo de Archivos Colombianos / Collective Catalogue of Colombian Archives](https://ccac.neogranadina.org/)
+Along with the Neogranadina team I have been working in the development of the Catálogo Colectivo de Archivos Colombianos (CCA). The CCAC is a multirepository of archival descriptions, metadata, and digital objects. We have built the CCCAC using the open source web application [AtoM](https://www.accesstomemory.org/) and organized the archival description based on international standards like [ISAD(G)](https://www.ica.org/es). More on this project [here] (https://neogranadina.org/projects/ccac)
 
+# [Archives Initiative: Neogranadina & UC Santa Barbara - Processing Interface](https://neogranadina.org/procesamiento/0-empieza-aca)
+Educational platform for Neogranadina volunteers who help us with the processing of digitized volumes.
 
-<iframe src="https://api.mapbox.com/styles/v1/andreinasotos/cju0nio4h0god1fpajt9ct5xd.html?fresh=true&title=true&access_token=pk.eyJ1IjoiYW5kcmVpbmFzb3RvcyIsImEiOiJjanJoMWk3ZGUwNzl3NGF1N2o1OGRraXhvIn0.77PWcsUnK1LpBInYCK-phA#5.9/9.704021/-65.531562/0" width="100%" height ="500px" frameborder="0"></iframe>
 ---

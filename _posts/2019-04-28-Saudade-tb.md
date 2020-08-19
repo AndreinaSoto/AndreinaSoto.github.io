@@ -1,5 +1,5 @@
 ---
-layout: post # if this were a page, you would write "page" instead. They layouts are subtly different. Try it to see what happens.
+**layout: post # if this were a page, you would write "page" instead. They layouts are subtly different. Try it to see what happens.
 title:  "Saudade"
 subtitle:
 date:   2017-05-19 23:45:13 -0400
