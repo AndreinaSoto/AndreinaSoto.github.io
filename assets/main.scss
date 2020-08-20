@@ -7,19 +7,19 @@
 // Below you can add bits of CSS to override the default settings. I've included a couple to get you started. Just remove the "//" from the beginning of each line to activate it, and refresh your browser. For more information on CSS and how to use it, see https://www.w3schools.com/css/.
 
 // To change the fonts for the headings across the site:
-//h1 {
+h1 {
  font-family: "Garamond", Trebuchet MS, Arial, Helvetica, sans-serif;
  font-size: 50px;
  color: #f8f9fa
 }
 
-//h2, {
+h2, {
 font-family: "Garamond", Trebuchet MS, Arial, Helvetica, sans-serif;
 font-size: 30px;
 //color: #20c997}
 // If you would like to switch off an entire section of CSS, you can also place /* and */ at each end of a block, like this:
 
-//h3, {
+h3, {
 font-family: "Garamond", Trebuchet MS, Arial, Helvetica, sans-serif;
 font-size: 20px;
 //color: #20c997}
@@ -43,7 +43,7 @@ header.masthead .page-heading h1, header.masthead .site-heading h1 {
 */
 
 // To customise the navigation bar links:
-/*
+*
 #mainNav .navbar-nav > li.nav-item > a {
     font-size: 50px;
     font-weight: 800;
@@ -55,7 +55,7 @@ header.masthead .page-heading h1, header.masthead .site-heading h1 {
 
 // To customise the way that tables look:
 
-/*
+*
 table {
   font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
   border-collapse: collapse;
