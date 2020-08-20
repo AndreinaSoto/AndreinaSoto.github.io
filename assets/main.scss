@@ -13,6 +13,7 @@ h1 {
  color: #f8f9fa
 }
 
+<<<<<<< HEAD
 h2, {
 font-family: "Garamond", Trebuchet MS, Arial, Helvetica, sans-serif;
 font-size: 30px;
@@ -23,6 +24,15 @@ h3, {
 font-family: "Garamond", Trebuchet MS, Arial, Helvetica, sans-serif;
 font-size: 20px;
 //color: #20c997}
+=======
+h2, h3, h4, h5 {
+// font-family: "Garamond", Trebuchet MS, Arial, Helvetica, sans-serif;
+// font-size: 30px;
+// color: #20c997
+}
+// If you would like to switch off an entire section of CSS, you can also place /* and */ at each end of a block, like this:
+
+>>>>>>> parent of a29bc51... changes in the headers
 
 // To change the fonts for the main site title:
 /*
