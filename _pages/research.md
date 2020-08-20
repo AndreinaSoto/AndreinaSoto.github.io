@@ -11,7 +11,7 @@ My dissertation examines how free and enslaved people of African descent used se
 I hope my research turns our attention to the ways the African descent population used legal and institutional avenues to create social networks, bring legitimacy to their communities and pursue socioeconomic benefits in a period when they had limited opportunities given their minor and dependent status in colonial society. I also hope this work raises more discussions about the lives of the Afro-Creole people in the Atlantic World.
 
 
-## Previous publications
+#Previous publications
 
 [En el nombre del Rey. Exequias funerales y proclamaciones reales en Caracas durante la segunda mitad del siglo XVIII](https://www.academia.edu/40245233/En_el_nombre_del_Rey_Exequias_funerales_y_proclamaciones_reales_en_Caracas_durante_la_segunda_mitad_del_siglo_XVIII), published in 2019.
 

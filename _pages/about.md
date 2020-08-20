@@ -13,7 +13,7 @@ background: 'img/posts/collagetwins.jpeg'
  I am also part of the team behind [Neogranadina](https://www.neogranadina.org/), a non-profit that specializes in the digitization, processing, and promotion of archival resources from Latin America.
 
 
-##Contact
+#Contact
 
 andreina@ucsb.edu; andreina@neogranadina.org
 
