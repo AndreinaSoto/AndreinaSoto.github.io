@@ -7,22 +7,22 @@
 // Below you can add bits of CSS to override the default settings. I've included a couple to get you started. Just remove the "//" from the beginning of each line to activate it, and refresh your browser. For more information on CSS and how to use it, see https://www.w3schools.com/css/.
 
 // To change the fonts for the headings across the site:
-h1 {
+//h1 {
  font-family: "Garamond", Trebuchet MS, Arial, Helvetica, sans-serif;
  font-size: 50px;
  color: #f8f9fa
 }
 
-h2, {
+//h2, {
 font-family: "Garamond", Trebuchet MS, Arial, Helvetica, sans-serif;
 font-size: 30px;
-color: #20c997}
+//color: #20c997}
 // If you would like to switch off an entire section of CSS, you can also place /* and */ at each end of a block, like this:
 
-h3, {
+//h3, {
 font-family: "Garamond", Trebuchet MS, Arial, Helvetica, sans-serif;
 font-size: 20px;
-color: #20c997}
+//color: #20c997}
 
 // To change the fonts for the main site title:
 /*
@@ -89,7 +89,21 @@ h1 {
 
 h2 {
  font-family: Garamond, "Trebuchet MS", Arial, Helvetica, sans-serif;
- font-size: 35px;
+ font-size: 30px;
+ color: black
+}
+
+p.caption123 {
+  display: block;
+  width: 410px;
+  margin-right: auto;
+  margin-left: auto;
+  font-size: 90%;
+}
+
+h3 {
+ font-family: Garamond, "Trebuchet MS", Arial, Helvetica, sans-serif;
+ font-size: 20px;
  color: black
 }
 
