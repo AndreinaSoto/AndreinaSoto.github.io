@@ -4,14 +4,23 @@ title: Digital Humanities
 description:
 background: '/img/dhcover.jpg'
 ---
-# [Sacred Spaces. Mapping Religion and the Built Environment in Early-Modern Venezuela](https://andreinasoto.github.io/mapping-venezuela/)
+## [Sacred Spaces. Mapping Religion and the Built Environment in Early-Modern Venezuela (2019- )](https://andreinasoto.github.io/mapping-venezuela/)
+Sacred Spaces is a digital project about the history of the Province of Venezuela through the lens of the religious built environment created during the colonial period (1500-1800). My goal with this project is to create visualization that show how the territorial expansion of the region depended upon local actor like missionaries and friars. I want to examine how this expansion altered the landscape and helped shape the formation of new, sometimes unstable, settlements. This project is still under development, but you can learn more about it on the official website.
 
-Sacred Spaces is a digital project about the history of the Province of Venezuela through the lens of the religious built environment created during the colonial period (1500-1800). The goal of this project is to create visualization tools for historical information about the territorial expansion of the Catholic friars and missionaries in the Province of Venezuela. I wanted to see how this expansion altered the landscape and helped shape the formation of new settlements. This project is still under development but you can learn more about it on the official website.
 
-# [Catálogo Colectivo de Archivos Colombianos / Collective Catalogue of Colombian Archives](https://ccac.neogranadina.org/)
-Along with the Neogranadina team I have been working in the development of the Catálogo Colectivo de Archivos Colombianos (CCA). The CCAC is a multirepository of archival descriptions, metadata, and digital objects. We have built the CCCAC using the open source web application [AtoM](https://www.accesstomemory.org/) and organized the archival description based on international standards like [ISAD(G)](https://www.ica.org/es). More on this project [here] (https://neogranadina.org/projects/ccac)
+## [Catálogo Colectivo de Archivos Colombianos / Collective Catalogue of Colombian Archives (2019- ) ](https://ccac.neogranadina.org/)
+With Neogranadina team I have been working in the development of the Catálogo Colectivo de Archivos Colombianos (CCA). The CCAC is a multirepository of archival descriptions, metadata, and digital objects for Colombian institutions who technical support with the preservation and promotion of their historical heritage. We have created the CCCAC using the open source web application [AtoM "Access to Memory"](https://www.accesstomemory.org/) and organized the archival descriptions based on international standards such as [ISAD(G)](https://www.ica.org/es). More on this project [here.](https://neogranadina.org/projects/ccac)
 
-# [Archives Initiative: Neogranadina & UC Santa Barbara - Processing Interface](https://neogranadina.org/procesamiento/0-empieza-aca)
-Educational platform for Neogranadina volunteers who help us with the processing of digitized volumes.
+
+## [Archives Initiative: Neogranadina & UC Santa Barbara - Processing Interface (2018- ) ](https://neogranadina.org/procesamiento/0-empieza-aca)
+Educational platform for Neogranadina volunteers who contribute with the processing of digitized volumes.
+
+
+## [The Conway Collection (2017)](https://sbgen.org/gallery.php?cid=5&sid=1)
+As an intern at the Santa Barbara County Genealogical Society (SBGCS), I created the image gallery of the Conway Collection. Joel Conway was a local photographer who devoted most of his life to compile antique photographs from Santa Barbara and southern California. I digitized the glass plate negatives, added metadata to the digital objects, and sorted the physical materials according to the SBGCS standards for further preservation.
+
+
+## [Remembering WWI](https://rememberingwwi.villanova.edu/)
+During my M.A. at Villanova University, I was one of the contributors in a digital project that explored scrapbooks as a form of memory and source of information on varied experiences during the First World War. I created articles exploring a topics related to understanding WWI and a digital project based on the materials contained in the scrapbooks. The project was led by dh specialist Deborah Boyer and in collaboration with the Special Collections division at VU.
 
 ---
