@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-description: Professional profile
+description: 
 background: '/img/posts/blog-page.jpeg'
 ---
 <img src="/img/posts/Profile-pic.jpg" style="display: block; width: 300px; margin-right: auto; margin-left: auto;" />
