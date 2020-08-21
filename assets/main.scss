@@ -8,15 +8,15 @@
 
 // To change the fonts for the headings across the site:
 h1 {
- font-family: "Garamond", Trebuchet MS, Arial, Helvetica, sans-serif;
+ font-family: Garamond, Trebuchet MS, Arial, "Helvetica", sans-serif;
  font-size: 50px;
  color: #f8f9fa
 }
 
 h2, h3, h4, h5 {
-font-family: "Garamond", Trebuchet MS, Arial, Helvetica, sans-serif;
-font-size: 30px;
-color: #20c997
+// font-family: "Garamond", Trebuchet MS, Arial, Helvetica, sans-serif;
+// font-size: 30px;
+// color: #20c997
 }
 // If you would like to switch off an entire section of CSS, you can also place /* and */ at each end of a block, like this:
 
@@ -24,34 +24,36 @@ color: #20c997
 // To change the fonts for the main site title:
 
 header.masthead .page-heading h1, header.masthead .site-heading h1 {
-    font-family: Palatino, Times, serif;
+    font-family: "Garamond", Times, serif;
     font-weight: normal;
-    font-style: italic;
+    font-style: bold;
 }
+*//
 
 
 // To change the fonts for the main site navigation bar:
-
+/*
 #mainNav .navbar-brand {
     font-family: Palatino, Times, serif;
     font-weight: normal;
     font-style: normal;
 }
+*/
 
 // To customise the navigation bar links:
-*
+/*
 #mainNav .navbar-nav > li.nav-item > a {
     font-size: 50px;
-    font-weight: 500;
+    font-weight: 800;
     letter-spacing: 1px;
     text-transform: lowercase;
     color: #4CAF50;
 }
-//
+*/
 
 // To customise the way that tables look:
 
-*
+/*
 table {
   font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
   border-collapse: collapse;
@@ -74,17 +76,17 @@ table th {
   background-color: #4CAF50;
   color: white;
 }
-//
+*/
 
 // To see what the above does to tables, just remove those bits.
 h1 {
- font-family: "Garamond", Trebuchet MS, Arial, Helvetica, sans-serif;
+ font-family: Garamond, Trebuchet MS, Arial, "Helvetica", sans-serif;
  font-size: 50px;
  color: #f8f9fa
 }
 
 h2 {
- font-family: Garamond, "Trebuchet MS", Arial, Helvetica, sans-serif;
+ font-family: Garamond, Trebuchet MS, Arial, "Helvetica," sans-serif;
  font-size: 30px;
  color: black
 }
@@ -94,5 +96,33 @@ p.caption123 {
   width: 410px;
   margin-right: auto;
   margin-left: auto;
-  font-size: 90%;
+  font-size: 90%
+}
+
+p id.section1 {display: block;
+width: 410px;
+margin-right: auto;
+margin-left: auto;
+font-size: 65%
+}
+
+p.timeline {
+  font-family: Garamond;
+  font-size: 25px
+}
+
+p.container {
+  font-family: Garamond;
+  font-size: 20
+}
+
+p.body {font-family: Arial;
+font-size: 15}
+
+p.container.right {font-family-monospace: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace}
+
+h1 {
+ font-family: Garamond, Trebuchet MS, Arial, "Helvetica", sans-serif;
+ font-size: 50px;
+ color: #f8f9fa
 }
