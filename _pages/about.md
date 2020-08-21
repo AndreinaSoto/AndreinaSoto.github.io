@@ -6,7 +6,7 @@ background: 'img/posts/collagetwins.jpeg'
 ---
 <img src="/img/posts/Profile-pic.jpg" style="display: block; width: 300px; margin-right: auto; margin-left: auto;" />
 
- I am a Latin American historian and anthropologist. Throughout my professional experience I have gained experience in different lines of work, from research, ethnographic fieldwork, marketing and consulting, event planning, digital humanities, and higher education.
+ I am a Latin American historian and anthropologist. Throughout my professional path I have gained experience in different lines of work, from research, ethnographic fieldwork, marketing and consulting, event planning, digital humanities, and higher education.
 
  I am currently doing my PhD in History at UC Santa Barbara. My research examines the ways people of African descent in early modern Venezuela used civic and religious institutions to position themselves in the colonial society and influence the territorial composition of the region.
 
@@ -17,4 +17,4 @@ background: 'img/posts/collagetwins.jpeg'
 
 andreina@ucsb.edu; andreina@neogranadina.org
 
-Personal Twitter: @SeguNina 
+Personal Twitter: @SeguNina
