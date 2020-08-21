@@ -17,4 +17,4 @@ background: 'img/posts/collagetwins.jpeg'
 
 andreina@ucsb.edu; andreina@neogranadina.org
 
-Twitter: @SeguNina and @Neogranadina_es
+Personal Twitter: @SeguNina 
