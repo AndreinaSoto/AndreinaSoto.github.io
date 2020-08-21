@@ -14,9 +14,9 @@ h1 {
 }
 
 h2, h3, h4, h5 {
-// font-family: "Garamond", Trebuchet MS, Arial, Helvetica, sans-serif;
-// font-size: 30px;
-// color: #20c997
+font-family: "Garamond", Trebuchet MS, Arial, Helvetica, sans-serif;
+font-size: 30px;
+color: #20c997
 }
 // If you would like to switch off an entire section of CSS, you can also place /* and */ at each end of a block, like this:
 
@@ -42,7 +42,7 @@ header.masthead .page-heading h1, header.masthead .site-heading h1 {
 *
 #mainNav .navbar-nav > li.nav-item > a {
     font-size: 50px;
-    font-weight: 800;
+    font-weight: 500;
     letter-spacing: 1px;
     text-transform: lowercase;
     color: #4CAF50;
