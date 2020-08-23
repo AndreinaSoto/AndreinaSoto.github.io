@@ -8,8 +8,7 @@ I specialized in the history of Latin America and the Atlantic World, with focus
 
 My dissertation examines how free and enslaved people of African descent used secular and religious institutions to navigate their social and territorial positioning in Venezuela between the late-seventeenth and early-eighteenth centuries. I examine the ways these people managed to negotiate with the colonial authorities by organizing themselves in confraternities and militias to achieve individual and collective benefits.
 
-I hope my research turns our attention to the ways the African descent population used legal and institutional avenues to create social networks, bring legitimacy to their communities and pursue socioeconomic benefits in a period when they had limited opportunities given their minor and dependent status in colonial society. I also hope this work raises more discussions about the lives of the Afro-Creole people in the Atlantic World.
-
+I hope my research turns our attention to the ways the African descent population used legal and institutional avenues to create social networks, bring legitimacy to their communities and pursue socioeconomic benefits in a period when they had limited opportunities given their minor and dependent status in colonial society.
 
 **Previous publications**
 
