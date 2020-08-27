@@ -3,7 +3,7 @@ email:            andreina@ucsb.edu
 description:      Welcome to my Website!
 author:           Andreina Soto
 baseurl:          "" # Leave this alone if this is your main site (i.e. username.github.io). If instead this is a site for a project, e.g. username.github.io/
-url:              "www.andreinasoto.com" # or http://username.github.io/mycleverproject if it is a project site, or http://mylovelydomainname.com if you have a domain, and so on.
+url:              "https://andreinasoto.github.io/" # or http://username.github.io/mycleverproject if it is a project site, or http://mylovelydomainname.com if you have a domain, and so on.
 
 collections:
   pages:
