@@ -12,20 +12,8 @@ background: 'img/posts/collagetwins.jpeg'
 
  I am also part of the team behind [Neogranadina](https://www.neogranadina.org/), a non-profit that specializes in the digitization, processing, and promotion of archival resources from Latin America.
 
-**Skills**
-Management, research, and evaluation of digital humanities projects.
+ **Contact**
 
-Handling, sorting, and digitization of archival collections.
+ Email: andreina@ucsb.edu; andreina@neogranadina.org
 
-Writing and editing of technical documents, proposals, and humanities research.
-
-Proficiency with operative systems (Mac OS and Microsoft), archival description software (AtoM), static site generator (Jekyll and html coding), command line tools (Github), communication and service analytics platforms (Slack and Google Analytics).
-
-Bilingual: Spanish, native speaker; English, professional proficiency.
-
-
-**Contact**
-
-Email: andreina@ucsb.edu; andreina@neogranadina.org
-
-Twitter: @SeguNina
+ Twitter: @SeguNina

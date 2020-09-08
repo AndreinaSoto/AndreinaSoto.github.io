@@ -4,7 +4,7 @@ title: Research
 description:
 background: 'img/posts/collage2.jpeg'
 ---
-I specialized in the history of Latin America and the Atlantic World, with focus on the early modern period. I have researched and taught topics related to political rituals, material culture, public space, and race and ethnicity.
+I specialize in the history of Latin America and the Atlantic World during the early modern period. I have researched and taught topics related to political rituals, material culture, public space, and race and ethnicity.
 
 My dissertation examines how free and enslaved people of African descent used secular and religious institutions to navigate their social and territorial positioning in Venezuela between the late-seventeenth and early-eighteenth centuries. I examine the ways these people managed to negotiate with the colonial authorities by organizing themselves in confraternities and militias to achieve individual and collective benefits.
 
