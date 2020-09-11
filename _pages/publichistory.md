@@ -6,7 +6,7 @@ background: 'img/posts/streets.jpeg'
 ---
 While my research has centered on Latin America, I consider myself a public historian since our discipline cannot subsist without serving the general public and local institutions.
 
-Aside from my work in Neogranadina, where we often push forward these goals by helping Latin American institutions, I have worked with other organizations developing educational materials, technical documentations, research essays, and digital resources. These institutions include the Santa Barbara Mission and Archive-Library, the Santa Barbara County Genealogical Society, and the Historical Society of Pennsylvania.
+I have worked with different organizations developing educational materials, technical documentations, research essays, and digital resources. These institutions include the Santa Barbara Mission and Archive-Library, the Santa Barbara County Genealogical Society, and the Historical Society of Pennsylvania.
 
 **Publications and online resources**
 

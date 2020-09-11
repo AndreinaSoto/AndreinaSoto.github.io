@@ -5,7 +5,7 @@ description:
 background: '/img/dhcover.jpg'
 ---
 
-I love working with digital tools since they offer infinite opportunities to develop and promote humanistic research. These are the projects I have been involved over the past years.
+I love working with digital tools since they offer endless opportunities to develop and promote humanistic research. These are the projects I have been involved over the past years.
 
 ## [Sacred Spaces. Mapping Religion and the Built Environment in Early-Modern Venezuela. Project Creator, 2019- ](https://andreinasoto.github.io/mapping-venezuela/)
 “Sacred Spaces” is a digital project about the history of the Province of Venezuela through the lens of the religious built environment created during the colonial period (1500-1800). My goal is to create visualization tools that show how the territorial expansion of the region depended upon local actors who adapted to the circumstances of the environment and its people. This project is still under development, but you can see version 1.0 on the official website.

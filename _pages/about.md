@@ -16,5 +16,6 @@ I love working with digital tools and developing public humanities projects! I a
 
  Email: andreina@ucsb.edu; andreina@neogranadina.org
 
- Twitter: @SeguNina
+Twitter: @SeguNina
+
 ---
