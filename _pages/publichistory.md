@@ -4,7 +4,9 @@ title: Public History
 description:
 background: 'img/posts/streets.jpeg'
 ---
-While my research has centered on Latin America, I wear many hats, being public historian one of them. I have worked in different institutions where I have developed educational material, digital resources, and research notes. This include the Santa Barbara Mission and Archive-Library, the Santa Barbara County Genealogical Society, and the Historical Society of Pennsylvania.
+While my research has centered on Latin America, I consider myself a public historian since our discipline cannot subsist without serving the general public and local institutions.
+
+Aside from my work in Neogranadina, where we often push forward these goals by helping Latin American institutions, I have worked with other organizations developing educational materials, technical documentations, research essays, and digital resources. These institutions include the Santa Barbara Mission and Archive-Library, the Santa Barbara County Genealogical Society, and the Historical Society of Pennsylvania.
 
 **Publications and online resources**
 
@@ -13,3 +15,5 @@ While my research has centered on Latin America, I wear many hats, being public 
 [Immigration and Cultural Diversity in East Harlem](https://www.portal.hsp.org/unit-plan-items/unit-plan-13), lesson plan for the Pennsylvania Historical Society.
 
 [The Jewish History of Philadelphia](https://www.portal.hsp.org/unit-plan-items/unit-plan-10), lesson plan for the Pennsylvania Historical Society.
+
+---
