@@ -23,7 +23,7 @@ I love working with digital tools since they offer endless opportunities to deve
 As an intern at the Santa Barbara County Genealogical Society (SBGCS), I created the image gallery of the Conway Collection to promote the holdings of this institutions among historians and genealogists. Joel Conway was a local photographer who devoted most of his life to compile antique photographs from Santa Barbara and southern California. This project consisted in digitizing over nine hundred glass plate negatives from the mid-twentieth century, adding metadata to the digital objects, and sorting the physical materials according to the SBGCS standards for further preservation.
 
 
-## [Remembering WWI. Project Contributor, 2016)](https://rememberingwwi.villanova.edu/)
+## [Remembering WWI. Project Contributor, 2016](https://rememberingwwi.villanova.edu/)
 During my M.A. at Villanova University, I participated in a digital project that explored scrapbooks as a form of memory and source of information on varied experiences during the First World War. I created articles exploring a topics related to understanding WWI and a digital project based on the materials contained in the scrapbooks. The project was led by DH specialist Deborah Boyer and in collaboration with the Special Collections division at VU.
 
 
