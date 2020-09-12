@@ -20,7 +20,7 @@ I love working with digital tools since they offer endless opportunities to deve
 
 ## #Equiano takes SocialMedia. Project Creator, 2017-2018.
 Based on Olaudah Equiano's (1745?-1797) autobiography, I have assigned my World history students with the task of bringing Olaudah's story to social media. Students are in charge of creating posts based on the autobiography that reflect ideas about freedom and enslavement, Olaudah's views on the Atlantic world. Students also need convey the reasoning behind their posts and the images they are using. This exercise is intended to engage students with a historical narratives and adapt them to a contemporary audience.
-You can follow Oulaudah on [Twitter](https://twitter.com/equiano_o) and [instagram](https://www.instagram.com/equiano_o/?hl=en).  
+You can follow Oulaudah on [**Twitter**](https://twitter.com/equiano_o) and [**instagram**](https://www.instagram.com/equiano_o/?hl=en).  
 
 ## [The Conway Collection. Project Creator, 2017](https://sbgen.org/gallery.php?cid=5&sid=1)
 As an intern at the Santa Barbara County Genealogical Society (SBGCS), I created the image gallery of the Conway Collection to promote the holdings of this institutions among historians and genealogists. Joel Conway was a local photographer who devoted most of his life to compile antique photographs from Santa Barbara and southern California. This project consisted in digitizing over nine hundred glass plate negatives from the mid-twentieth century, adding metadata to the digital objects, and sorting the physical materials according to the SBGCS standards for further preservation.
