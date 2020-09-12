@@ -10,7 +10,7 @@ I am a Latin American historian and anthropologist. Throughout my professional p
 
 I am currently doing my PhD in History at UC Santa Barbara. My research examines the ways people of African descent in early modern Venezuela used civic and religious institutions to position themselves in the colonial society and influence the territorial composition of the region.
 
-I love working with digital tools and developing public humanities projects! I am part of the team behind [**Neogranadina**](https://www.neogranadina.org/), a non-profit that specializes in the digitization, processing, and promotion of archival resources from Latin America.
+I love working with digital tools and developing public humanities projects! I am part of the team behind [**Neogranadina**](https://neogranadina.org/), a non-profit that specializes in the digitization, processing, and promotion of archival resources from Latin America.
 
  **Contact**
 
