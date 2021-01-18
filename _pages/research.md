@@ -4,11 +4,13 @@ title: Research
 description:
 background: 'img/posts/collage2.jpeg'
 ---
-I specialize in the history of Latin America and the Atlantic World during the early modern period. I have researched and taught topics related to political rituals, material culture, and race and ethnicity.
+My specialize in the history of Latin America and African diaspora studies. I have researched and taught topics related to political rituals, material culture, and race and ethnicity.
 
-My dissertation examines how free and enslaved people of African descent used secular and religious institutions to navigate their social positioning in Venezuela between the late-seventeenth and early-eighteenth centuries. I examine the ways these people managed to negotiate with the colonial authorities using different legal practices to achieve individual and collective benefits.
+My dissertation project, tentatively titled *Transforming the Norms within an Imperial Space: Black People’s Strategies in Early Modern Venezuela* examines the ways people of African descent contested and reshaped institutions, norms, and imperial geographies during the early modern period. I apply methods and concepts from African diaspora, history of law, and cultural geography to understand how free and enslaved people used different legal mechanisms to negotiate with colonial authorities. I propose that by studying how Black people engaged with canon and civil law, we can understand how they tried to transform social practices, rules, and juridical spaces in the Province of Venezuela.
 
-I hope my research turns our attention to the ways the African descent population used legal avenues to create social networks, bring legitimacy to their communities and pursue socioeconomic benefits in the Spanish Caribbean.  
+In my research I also experiment with digital humanities tools. My dissertation employs geospatial analysis methods to process data from my sources and reconstruct Venezuela’s space from the perspective of Black individuals and groups, the places they inhabited, the social networks they created within these spaces, and their interactions with civic and religious authorities.
+
+My project seeks to reconstructing and examining the experiences of people of African descent whose histories have often been silenced in our understanding of law and normative knowledge. At the same time, my research wants to highlight that the histories of Latin America and the Caribbean are not monolithic, and that places like Venezuela, often deemed peripheral in the scholarship, can help us understand the people that took part in the transformation of local norms and imperial policies during the early modern period.
 
 **Publications**
 
