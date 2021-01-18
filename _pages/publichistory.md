@@ -4,7 +4,7 @@ title: Public History
 description:
 background: 'img/posts/streets.jpeg'
 ---
- I have worked in different organizations developing educational materials, technical documentations, and digital resources based on their holdings. These institutions include the Santa Barbara Mission and Archive-Library, the Santa Barbara County Genealogical Society, and the Historical Society of Pennsylvania.
+ I have worked with different organizations developing articles, educational materials, and digital resources aimed at bringing attention to the importance of historical research and archival holdings for specialized and non-specialized users. Some of the institutions I have worked in the past include the Santa Barbara Mission and Archive-Library, the Santa Barbara County Genealogical Society, and the Historical Society of Pennsylvania.
 
 **Publications and online resources**
 

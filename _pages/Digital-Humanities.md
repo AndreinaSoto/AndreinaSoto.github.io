@@ -5,7 +5,7 @@ description:
 background: '/img/dhcover.jpg'
 ---
 
-I love working with digital tools since they offer endless opportunities to develop and promote humanistic research. These are the projects I have been involved over the past years.
+ I am passionate about making specialized information accessible to broad audiences. Over the past years I have worked with different initiatives implementing digital humanities methods to preserve and promote humanistic knowledge and inquiry.
 
 ## [Sacred Spaces. Mapping Religion and the Built Environment in Early-Modern Venezuela. Project Creator, 2019- ](https://andreinasoto.github.io/mapping-venezuela/)
 “Sacred Spaces” is a digital project about the history of the Province of Venezuela through the lens of the religious built environment created during the colonial period (1500-1800). My goal is to create visualization tools that show how the territorial expansion of the region depended upon local actors who adapted to the circumstances of the environment and its people. This project is still under development, but you can see version 1.0 on the official website.
@@ -18,7 +18,7 @@ The CCAC is a multirepository of archival descriptions, metadata, and digital ob
 ## [Archives Initiative: Neogranadina & UC Santa Barbara. Project Contributor, 2018-  ](https://neogranadina.org/procesamiento/0-empieza-aca)
  Neogranadina’s educational platform for volunteers who contribute with the processing of digitized volumes. I currently supervise the progress of our volunteers and their interaction of this platform.
 
-## Equiano takes Social Media. Project Creator, 2017-2018.
+## Olaudah Equiano takes Social Media. Project Creator, 2017-2018.
 Based on Olaudah Equiano's (1745?-1797) autobiography, I assigned my World history students with the task of bringing Olaudah's story to social media. Students were in charge of creating posts based on the autobiography that reflect ideas about freedom and enslavement, and the Atlantic world. Students also needed convey the reasoning behind their posts and the images they are using. This exercise was intended to engage students with a historical narratives and adapt them to a contemporary audience.
 You can follow Oulaudah on [**Twitter**](https://twitter.com/equiano_o) and [**instagram**](https://www.instagram.com/equiano_o/?hl=en).  
 

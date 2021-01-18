@@ -4,18 +4,14 @@ title: About Me
 description:
 background: 'img/posts/collagetwins.jpeg'
 ---
-<img src="/img/posts/Profile-pic.jpg" style="display: block; width: 300px; margin-right: auto; margin-left: auto;" />
+<img src="/img/profile-new.jpg" style="display: block; width: 300px; margin-right: auto; margin-left: auto;" />
 
-I am a Latin American historian and anthropologist. Throughout my professional path I have worked in humanistic research, higher education, ethnographic fieldwork, programming, and digital humanities.
-
-I am doing my PhD in History at UC Santa Barbara. My research examines the ways people of African descent in early modern Venezuela used civic and religious institutions to position in the colonial society, make legal claims, and create communities under Spanish rule.
-
-I love working with digital tools and developing public humanities projects! I am part of the team behind [**Neogranadina**](https://neogranadina.org/), a non-profit that specializes in the digitization, processing, and promotion of archival resources from Latin America.
+I am a historian and anthropologist with professional experience in research, education, and projects for the public interest. As a researcher I examine the ways people of African descent contested and reshaped institutions, norms, and imperial geographies in the Spanish Caribbean. As an educator I have taught courses on global history and Latin America using dynamic methods to help students foster their writing skills and make critical connections between the past and contemporary issues. Finally, I am passionate about making specialized information accessible to broad audiences and I have worked with different initiatives implementing digital humanities and public history methods to preserve and promote humanistic knowledge. I am part of the team behind [**Neogranadina**](https://neogranadina.org/), a non-profit that uses novel digital tools for the digitization, processing, and promotion of Latin America historical heritage.
 
  **Contact**
 
- Email: andreina@ucsb.edu; andreina@neogranadina.org
+Email: andreina@ucsb.edu; andreina@neogranadina.org
 
-Twitter: @SeguNina
+Twitter: [@SeguNina](https://twitter.com/Neogranadina_es)
 
 ---
