@@ -2,7 +2,7 @@
 layout: page
 title: Research
 description:
-background: 'img/posts/collage2.jpeg'
+background: 'img/BW/hand.jpeg'
 ---
 My specialize in the history of Latin America and African diaspora studies. I have researched and taught topics related to political rituals, material culture, and race and ethnicity.
 

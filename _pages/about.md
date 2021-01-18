@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 description:
-background: 'img/posts/collagetwins.jpeg'
+background: 'img/BW/collagetwins.jpg'
 ---
 <img src="/img/profile-new.jpg" style="display: block; width: 300px; margin-right: auto; margin-left: auto;" />
 

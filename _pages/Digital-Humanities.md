@@ -2,7 +2,7 @@
 layout: page
 title: Digital Humanities
 description:
-background: '/img/dhcover.jpg'
+background: 'img/BW/dhcover.jpg'
 ---
 
  I am passionate about making specialized information accessible to broad audiences. Over the past years I have worked with different initiatives implementing digital humanities methods to preserve and promote humanistic knowledge and inquiry.
