@@ -5,7 +5,7 @@ description:
 background: 'img/BW/dhcover.jpg'
 ---
 
- I am passionate about making specialized information accessible to broad audiences. Over the past years I have worked with different initiatives implementing digital humanities methods to preserve and promote humanistic knowledge and inquiry.
+ I am passionate about making specialized information accessible to broad audiences. Over the past years I have worked with different initiatives implementing digital humanities methods to preserve and promote humanistic knowledge and inquiry. I have acquired practical knowledge in a diverse set of tools for research, online exhibits, databases, workflows, web and content management. Some of these tools include: GitHub, Jekyll, Access to Memory (AtoM), MapBox, Airtable, Omeka S, and WordPress.
 
 ## [Sacred Spaces. Mapping Religion and the Built Environment in Early-Modern Venezuela. Project Creator, 2019- ](https://andreinasoto.github.io/mapping-venezuela/)
 “Sacred Spaces” is a digital project about the history of the Province of Venezuela through the lens of the religious built environment created during the colonial period (1500-1800). My goal is to create visualization tools that show how the territorial expansion of the region depended upon local actors who adapted to the circumstances of the environment and its people. This project is still under development, but you can see version 1.0 on the official website.
