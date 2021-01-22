@@ -8,7 +8,7 @@ background: 'img/BW/streets.jpg'
 
 **Publications and online resources**
 
-## [The Conway Collection. Project Creator](https://sbgen.org/gallery.php?cid=5&sid=1)
+## [The Conway Photograph Collection](https://sbgen.org/gallery.php?cid=5&sid=1)
 
 As an intern at the Santa Barbara County Genealogical Society (SBGCS), I digitized and created the image gallery of the Conway Collection to promote the holdings of this institutions among historians and genealogists. Joel Conway was a local photographer who devoted most of his life to compile antique photographs from Santa Barbara and southern California. This project consisted in digitizing over nine hundred glass plate negatives from the mid-twentieth century, adding metadata to the digital objects, and sorting the physical materials according to the SBGCS standards for further preservation.
 
