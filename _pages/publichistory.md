@@ -10,7 +10,7 @@ background: 'img/BW/streets.jpg'
 
 As the Center Administrator of the Lepage Center, I research, plan and execute different funded programs, workshops, and public events that reflect the Center’s mission of empowering the public with historical tools to examine contemporary issues. 
 
-## [Writing History Among the Tombstones: Notes from Har Hasetim, 2019](https://www.academia.edu/40731678/Writing_History_Among_the_Tombstones_Notes_from_Har_Hasetim).
+## [Writing History Among the Tombstones: Notes from Har Hasetim, 2019](https://www.academia.edu/40731678/Writing_History_Among_the_Tombstones_Notes_from_Har_Hasetim)
 
 Essay co-authored with Dan Gorman Jr. This paper examines the collaborative project to preserve and interpret Har Hasetim, the Gladwyne Jewish Memorial Cemetery. The project took place in the fall 2015, when Villanova University professor Craig Bailey approached the Friends of the Cemetery, an organization affiliated with the local Beth David Reform Congregation, about jointly restoring Har Hasetim. The ensuing project began by expanding the database of known interments in the cemetery, relying on local archives, Philadelphia death records, and census data. This initial work evolved into a range of public history projects such as scout and school lesson plans, informational booklets, academic research papers, and preservation plans. The paper Dan and I wrote reflects upon the lessons learned from the partnership between our public history class and the Friends. The Har Hasetim project treated history as a civic initiative, helping a community organization to document its history, preserving a physical site, producing materials for site-specific education, and sharing historical discoveries with the public.
 
@@ -18,7 +18,7 @@ Essay co-authored with Dan Gorman Jr. This paper examines the collaborative proj
 
 As an intern at the Santa Barbara County Genealogical Society (SBGCS), I digitized and created the image gallery of the Conway Collection to promote the holdings of this institutions among historians and genealogists. Joel Conway was a local photographer who devoted most of his life to compile antique photographs from Santa Barbara and southern California. This project consisted in digitizing over nine hundred glass plate negatives from the mid-twentieth century, adding metadata to the digital objects, and sorting the physical materials according to the SBGCS standards for further preservation.
 
-## [The Jewish History of Philadelphia, 2016](https://www.portal.hsp.org/unit-plan-items/unit-plan-10).
+## [The Jewish History of Philadelphia, 2016](https://www.portal.hsp.org/unit-plan-items/unit-plan-10)
 
 Lesson plan I created when I was an Education Intern for the Pennsylvania Historical Society.  This unit explores the lives of Jewish immigrants that settled in Philadelphia between the late-nineteenth and mid-twentieth centuries. Their histories are part of a larger narrative  of  social and cultural transformations that affected the Unites States during the twentieth century. The lesson uses biographies is a historical source used to examine the experiences of different social groups and reflect upon larger subject such as a migration, cultural change, and the effects of WWII in families and societies across the globe.
 
