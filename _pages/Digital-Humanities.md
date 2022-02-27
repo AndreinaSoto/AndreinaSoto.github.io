@@ -5,9 +5,9 @@ description:
 background: 'img/BW/dhcover.jpg'
 ---
 
-I am passionate about making specialized information accessible to broad audiences. Over the past years I have worked with different initiatives implementing digital humanities methods to preserve and promote humanistic knowledge and inquiry. I have acquired practical knowledge in a diverse set of tools for research, online exhibits, databases, workflows, web and content management. Some of these tools include: GitHub, Jekyll, Access to Memory (AtoM), MapBox, Airtable, Omeka S, and WordPress.
+I am passionate about making specialized information accessible to broad audiences. Over the past years, I have worked with different initiatives implementing digital humanities methods to preserve and promote humanistic knowledge and inquiry. I have acquired practical knowledge in a diverse set of tools for research, online exhibits, databases, workflows, web and content management. These tools include GitHub, Jekyll, Access to Memory (AtoM), MapBox, Airtable, Omeka S, and WordPress.
 
-**DH Projects**
+## **DH Projects**
 
 ## [Narra la Independencia desde tu pueblo, tu distrito o tu ciudad, Project Contributor, 2020](https://archivocolectivo.org/narra/pagina/inicio)
 
