@@ -6,7 +6,7 @@ background: 'img/BW/streets.jpg'
 ---
  I have worked with different organizations developing articles, educational materials, and digital resources aimed at bringing attention to the importance of historical research and archival holdings for specialized and non-specialized users. Some of the institutions I have worked in the past include the Santa Barbara Mission and Archive-Library, the Santa Barbara County Genealogical Society, and the Historical Society of Pennsylvania.
 
-## [The Albert Lepage Center for History in the Public Interest, 2020-](https://www1.villanova.edu/villanova/artsci/lepage.html)
+## [The Albert Lepage Center for History in the Public Interest, 2021-](https://www1.villanova.edu/villanova/artsci/lepage.html)
 
 As the Center Administrator of the Lepage Center, I research, plan and execute different funded programs, workshops, and public events that reflect the Center’s mission of empowering the public with historical tools to examine contemporary issues. 
 
