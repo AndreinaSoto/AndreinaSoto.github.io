@@ -9,17 +9,17 @@ I am passionate about making specialized information accessible to broad audienc
 
 ## **DH Projects**
 
-## [Narra la Independencia desde tu pueblo, tu distrito o tu ciudad, Project Contributor, 2020](https://archivocolectivo.org/narra/pagina/inicio)
+## [Narra la Independencia desde tu pueblo, tu distrito o tu ciudad, Project Contributor, 2021](https://archivocolectivo.org/narra/pagina/inicio)
 
 *Narra* is a collaborative history project that seeks to democratize the narratives about Peru's independence processes. Neogranadina supported the creation of a digital archive that holds the *Colección documental del sesquicentenario de la independencia del Perú* which the general public can access for research and education. I supervised the first phase of the crowdsourcing project in this project, where students from the Universidad Nacional de San Marcos helped process the digitized materials.  
-
-## [Sacred Spaces. Mapping Religion and the Built Environment in Early-Modern Venezuela. Project Creator, 2019](https://andreinasoto.github.io/mapping-venezuela/)
-
-“Sacred Spaces” is a digital project about the history of the Province of Venezuela through the lens of the religious built environment created during the colonial period (1500-1800). My goal is to create visualization tools that show how the territorial expansion of the region depended upon local actors who adapted to the circumstances of the environment and its people. *This project is still under development, but you can see version 1.0 on the official website.*
 
 ## [Archivo Colectivo. Neogranadina, Project Contributor, 2020-](https://archivocolectivo.org/)
 
 The *Archivo Colectivo* is Neogranadina's platform to consult digitized materials from Colombian archives. The site was created using Omeka S. 
+
+## [Sacred Spaces. Mapping Religion and the Built Environment in Early-Modern Venezuela. Project Creator, 2019](https://andreinasoto.github.io/mapping-venezuela/)
+
+“Sacred Spaces” is a digital project about the history of the Province of Venezuela through the lens of the religious built environment created during the colonial period (1500-1800). My goal is to create visualization tools that show how the territorial expansion of the region depended upon local actors who adapted to the circumstances of the environment and its people. *This project is still under development, but you can see version 1.0 on the official website.*
 
 ## [Catálogo Colectivo de Archivos Colombianos / Collective Catalogue of Colombian Archives. Neogranadina. Project Contributor, 2019- ](https://ccac.neogranadina.org/)
 
@@ -27,7 +27,7 @@ The CCAC is a multirepository of archival descriptions, metadata, and digital ob
 
 ## [Archives Initiative: Neogranadina & UC Santa Barbara. Project Contributor, 2018-  ](https://neogranadina.org/procesamiento/0-empieza-aca)
 
-Neogranadina’s educational first platform for volunteers who contribute with the processing of digitized volumes. I supervise the progress of our volunteers and their interaction of this platform. *We are currently working on a new version of using Omeka S and Data Scribe.*
+Neogranadina’s educational first platform for volunteers who contribute with the processing of digitized volumes. I supervise the progress of our volunteers and their interaction of this platform.
 
 ## Olaudah Equiano takes Social Media. Project Creator, 2017-2018
 
