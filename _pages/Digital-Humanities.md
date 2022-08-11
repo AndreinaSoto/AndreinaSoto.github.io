@@ -26,6 +26,9 @@ During my time in Neogranadina, I supervised volunteers and interns participatin
 
 This exercise was my first attempt to engage undergraduate students with historical sources through social media. Based on Olaudah Equiano's (1745?-1797) autobiography, my World History students were responsible for creating posts based on the autobiography that reflect ideas about freedom and enslavement in the Atlantic world. Students also had to think critically about their choices to tell Equiano's story. 
 
+## The Conway Photograph Collection, 2017
+As an intern at the Santa Barbara County Genealogical Society (SBGCS), I digitized and created the image gallery of the Conway Collection to promote the holdings of this institutions among historians and genealogists. Joel Conway was a local photographer who devoted most of his life to compile antique photographs from Santa Barbara and southern California. This project consisted in digitizing over nine hundred glass plate negatives from the mid-twentieth century, adding metadata to the digital objects, and sorting the physical materials according to the SBGCS standards for further preservation.
+
 ## [Remembering WWI. Project Contributor](https://rememberingwwi.villanova.edu/)
 
 During my M.A. at Villanova University, I participated in a digital project that explored scrapbooks as a form of memory and source of information on varied experiences during the First World War. I created articles exploring topics related to understanding WWI and a digital project about female representations in WWI visual culture. DH specialist Deborah Boyer led the project in collaboration with the Special Collections division at VU.
