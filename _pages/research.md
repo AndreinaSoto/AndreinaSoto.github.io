@@ -4,7 +4,7 @@ title: Research
 description:
 background: 'img/BW/hand.jpeg'
 ---
-I am a PhD in History through the Department of History at UC Santa Barbara. I especialize in Caribbean and Latin America history, African diaspora studies, and digital humanities. 
+I am a PhD in History from UC Santa Barbara. I especialize in Caribbean and Latin America history, African diaspora studies, and digital humanities. 
 
 My doctoral dissertation, titled *From Cumbes to Cofradías: Black Communities and Competing Normative Orders in the Province of Venezuela, 1552–1785* argues that people of African descent were constitutive in shaping the norms and geographies that made and remade the Province of Venezuela over more than two centuries. 
 
